@@ -1,0 +1,6 @@
+{
+  "name": "Ung Chhayarith Hotel & Resort",
+  "description": "Luxury hotel booking & reservation management platform featuring room selection, payment gateway checkout, customer dashboard for upcoming bookings and cancellations, and automated email confirmation notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
